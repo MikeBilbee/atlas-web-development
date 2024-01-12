@@ -1,5 +1,7 @@
 <h1> Atlas T3 Full Stack: HTML, Advanced </h1>
 
+![HTML5_logo_and_wordmark svg](https://github.com/MikeBilbee/atlas-web-development/assets/119973248/7b21f249-79d2-42e6-b35f-0fe665247dfd)
+
 <h5> Author: Mike Bilbee </h5>
 
 This Project covers:

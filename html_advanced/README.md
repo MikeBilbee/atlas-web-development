@@ -26,14 +26,14 @@ In this project we will be implementing a basic webpage from scratch based on a 
 
 | Task | File | Description |
 | ----- | ----- | ----- |
-| 0. README and objectives! | [README.md]() | Write an amazing README.md |
-| 1. Header | [index.html]() | Create the HTML skeleton (html, head, body, etc.) |
-| 2. Banner | [index.html]() | Under the header, add a main element with inside a section element. |
-| 3. Quote | [index.html]() | Under the banner, we will add the quote block: The quote section is inside the main. |
-| 4. Videos | [index.html]() | Let’s now add the videos list |
-| 5. Membership | [index.html]() | Membership section is similar as the videos list. |
-| 6. FAQ | [index.html]() | The FAQ section is ending the page before the footer: Add a section for the FAQ. |
-| 7. Footer | [index.html]() | And… the footer! After the last section, outside of the main, add a footer. |
+| 0. README and objectives! | [README.md](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/README.md) | Write an amazing README.md |
+| 1. Header | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | Create the HTML skeleton (html, head, body, etc.) |
+| 2. Banner | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | Under the header, add a main element with inside a section element. |
+| 3. Quote | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | Under the banner, we will add the quote block: The quote section is inside the main. |
+| 4. Videos | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | Let’s now add the videos list |
+| 5. Membership | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | Membership section is similar as the videos list. |
+| 6. FAQ | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | The FAQ section is ending the page before the footer: Add a section for the FAQ. |
+| 7. Footer | [index.html](https://github.com/MikeBilbee/atlas-web-development/blob/main/html_advanced/index.html) | And… the footer! After the last section, outside of the main, add a footer. |
 
 
 

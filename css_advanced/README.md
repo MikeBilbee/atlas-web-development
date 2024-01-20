@@ -1,6 +1,6 @@
 <h1> :computer: Atlas T3 Full Stack: CSS, Advanced </h1>
 
-![]()
+![css3-logo-png-transparent](https://github.com/MikeBilbee/atlas-web-development/assets/119973248/b104e84a-edab-4e67-9473-f2ccd0adb037)
 
 <h5> :memo: Author: Mike Bilbee </h5>
 

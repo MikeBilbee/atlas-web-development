@@ -40,4 +40,4 @@ In this project we will continue implementing a basic webpage from scratch based
 
 ---
 
-More from me : ![Github](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png) [MikeBilbee](https://github.com/MikeBilbee)
+More from me : ![Github](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png =250x250) [MikeBilbee](https://github.com/MikeBilbee)

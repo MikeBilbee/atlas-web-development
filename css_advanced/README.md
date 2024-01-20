@@ -14,7 +14,7 @@ This Project covers:
 * How does the browser load a webpage
 ---
 
-<h3> :open_file_folder: Description :open_file_folder: </h3>
+<h3> :open_file_folder: Description </h3>
 
 In this project we will continue implementing a basic webpage from scratch based on a [designer file](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage) from Figma. We will be focused on CSS, making style changes to our previous [HTML project](https://github.com/MikeBilbee/atlas-web-development/tree/main/html_advanced).
 
